@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.a1a6add7.js";import{o,k as s,q as r}from"./entry.030d177d.js";const t={},c=r("iframe",{src:"https://app.thevoyager.io/swap",class:"min-w-full min-h-screen",scrolling:"no"},null,-1),n=[c];function a(l,_){return o(),s("div",null,n)}const m=e(t,[["render",a]]);export{m as default};
