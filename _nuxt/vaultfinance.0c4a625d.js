@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.a1a6add7.js";import{o as t,k as n,q as o}from"./entry.7a0dc761.js";const s={},c=o("iframe",{src:"https://dapp.thenovation.com/swap",class:"min-w-full min-h-screen"},null,-1),a=[c];function r(_,i){return t(),n("div",null,a)}const m=e(s,[["render",r]]);export{m as default};
